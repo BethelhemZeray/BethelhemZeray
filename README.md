@@ -13,6 +13,9 @@
 
 ---
 
+
+## Portfolio
+! [Bethelhem's Portfolio] (https://portfolio-six-gamma-cul0k1h4sl.vercel.app/)
 ## 📊 GitHub Stats
 
 ![Bethelhem's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BethelhemZeray&show_icons=true&theme=radical)
@@ -22,7 +25,7 @@
 
 ## 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amanuel-daniel-4573b1309)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://github.com/BethelhemZeray/BethelhemZeray.git)
 [![Upwork](https://img.shields.io/badge/-Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~014e7dc7fe05aa7131)
 [![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BethelhemZeray)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bethelhemzeray@gmail.com)
