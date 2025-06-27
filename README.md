@@ -15,7 +15,8 @@
 
 
 ## Portfolio
-! [Bethelhem's Portfolio] (https://portfolio-six-gamma-cul0k1h4sl.vercel.app/)
+(https://portfolio-six-gamma-cul0k1h4sl.vercel.app/)
+
 ## 📊 GitHub Stats
 
 ![Bethelhem's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BethelhemZeray&show_icons=true&theme=radical)
